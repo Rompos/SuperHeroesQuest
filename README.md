@@ -14,3 +14,5 @@ The game has been modified to a certain degree.
 
 
 This project is licensed under the terms of the Apache license 2.0
+
+![alt text](https://github.com/Rompos/SuperHeroesQuest/blob/master/screenshot.png?raw=true)
