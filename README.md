@@ -17,4 +17,5 @@ This project is licensed under the terms of the Apache license 2.0
 
 
 ![screenshot](https://user-images.githubusercontent.com/64089173/103840347-0b515f80-509a-11eb-9de1-1bd28bd31653.png)
+
 ![alt text](https://github.com/Rompos/SuperHeroesQuest/blob/master/screenshot.png?raw=true)
