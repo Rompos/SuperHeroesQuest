@@ -11,3 +11,6 @@ The game has been modified to a certain degree.
 6. Deadly new Environment.
 7. Tracking Projectile System.
 8. Extra Lives to collect.
+
+
+This project is licensed under the terms of the Apache license 2.0
