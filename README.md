@@ -13,7 +13,6 @@ The game has been modified to a certain degree.
 8. Extra Lives to collect.
 
 ![License](https://img.shields.io/github/license/Rompos/SuperHeroesQuest.svg)
-![Downloads](https://img.shields.io/github/downloads/Rompos/SuperHeroesQuest/total.svg)
 ![Forks](https://img.shields.io/github/forks/Rompos/SuperHeroesQuest.svg)
 ![Stars](https://img.shields.io/github/stars/Rompos/SuperHeroesQuest.svg)
 ![Watchers](https://img.shields.io/github/watchers/Rompos/SuperHeroesQuest.svg)
