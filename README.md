@@ -1,4 +1,4 @@
-# SuperHeroesQuest
+# Super Heroes Quest
 Unity 2D Game Based on the Super Sparty Bros
 
 
@@ -12,6 +12,10 @@ The game has been modified to a certain degree.
 7. Tracking Projectile System.
 8. Extra Lives to collect.
 
+Windows | Linux  | Mac OS
+--------|--------|--------
+ 22.4Mb | 22.5Mb | 21.8Mb
+
 ![License](https://img.shields.io/github/license/Rompos/SuperHeroesQuest.svg)
 ![Forks](https://img.shields.io/github/forks/Rompos/SuperHeroesQuest.svg)
 ![Stars](https://img.shields.io/github/stars/Rompos/SuperHeroesQuest.svg)
@@ -22,3 +26,4 @@ The game has been modified to a certain degree.
 ## Youtube video gameplay tralier of the actual game!
 
 [![youtube.html](https://img.youtube.com/vi/ybBErvlQymw/maxresdefault.jpg)](https://www.youtube.com/watch?v=ybBErvlQymw)
+
