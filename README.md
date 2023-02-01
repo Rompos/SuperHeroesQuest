@@ -12,21 +12,14 @@ The game has been modified to a certain degree.
 7. Tracking Projectile System.
 8. Extra Lives to collect.
 
-
-This project is licensed under the terms of the Apache license 2.0
-
-
-![screenshot](https://user-images.githubusercontent.com/64089173/103840347-0b515f80-509a-11eb-9de1-1bd28bd31653.png)
-
-![alt text](https://github.com/Rompos/SuperHeroesQuest/blob/master/screenshot.png?raw=true)
-
-## Youtube video gameplay tralier of the actual game!
-
-![Youtube](https://img.youtube.com/vi/ybBErvlQymw/maxresdefault.jpg)
-https://www.youtube.com/watch?v=ybBErvlQymw
-
+![License](https://img.shields.io/github/license/Rompos/SuperHeroesQuest.svg)
 ![Downloads](https://img.shields.io/github/downloads/Rompos/SuperHeroesQuest/total.svg)
 ![Forks](https://img.shields.io/github/forks/Rompos/SuperHeroesQuest.svg)
 ![Stars](https://img.shields.io/github/stars/Rompos/SuperHeroesQuest.svg)
 ![Watchers](https://img.shields.io/github/watchers/Rompos/SuperHeroesQuest.svg)
 
+[![screenshot](https://user-images.githubusercontent.com/64089173/103840347-0b515f80-509a-11eb-9de1-1bd28bd31653.png)](https://github.com/Rompos/SuperHeroesQuest/blob/master/screenshot.png?raw=true)
+
+## Youtube video gameplay tralier of the actual game!
+
+[![youtube.html](https://img.youtube.com/vi/ybBErvlQymw/maxresdefault.jpg)](https://www.youtube.com/watch?v=ybBErvlQymw)
