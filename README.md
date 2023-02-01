@@ -25,4 +25,6 @@ The game has been modified to a certain degree.
 
 ## Youtube video gameplay tralier of the actual game!
 
-[![youtube.html](https://img.youtube.com/vi/ybBErvlQymw/maxresdefault.jpg)](https://www.youtube.com/embed/ybBErvlQymw)
+[![Youtube](https://img.youtube.com/vi/ybBErvlQymw/maxresdefault.jpg)](https://www.youtube.com/embed/ybBErvlQymw)
+
+link: https://www.youtube.com/watch?v=ybBErvlQymw
