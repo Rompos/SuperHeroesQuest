@@ -21,10 +21,10 @@ The game has been modified to a certain degree.
 ![Stars](https://img.shields.io/github/stars/Rompos/SuperHeroesQuest.svg)
 ![Watchers](https://img.shields.io/github/watchers/Rompos/SuperHeroesQuest.svg)
 
-[![screenshot](https://user-images.githubusercontent.com/64089173/103840347-0b515f80-509a-11eb-9de1-1bd28bd31653.png)](https://github.com/Rompos/SuperHeroesQuest/blob/master/screenshot.png?raw=true)
+[![screenshot](https://user-images.githubusercontent.com/64089173/103840347-0b515f80-509a-11eb-9de1-1bd28bd31653.png "Ingame screenshot")](https://github.com/Rompos/SuperHeroesQuest/blob/master/screenshot.png?raw=true)
 
 ## Youtube video gameplay tralier of the actual game!
 
-[![Youtube](https://img.youtube.com/vi/ybBErvlQymw/maxresdefault.jpg)](https://www.youtube.com/embed/ybBErvlQymw)
+[![Youtube](https://img.youtube.com/vi/ybBErvlQymw/maxresdefault.jpg "Press to Play Video!")](https://www.youtube.com/embed/ybBErvlQymw)
 
 link: https://www.youtube.com/watch?v=ybBErvlQymw
