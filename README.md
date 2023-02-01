@@ -22,4 +22,11 @@ This project is licensed under the terms of the Apache license 2.0
 
 ## Youtube video gameplay tralier of the actual game!
 
-https://youtu.be/ybBErvlQymw
+![Youtube](https://img.youtube.com/vi/ybBErvlQymw/maxresdefault.jpg)
+https://www.youtube.com/watch?v=ybBErvlQymw
+
+![Downloads](https://img.shields.io/github/downloads/Rompos/SuperHeroesQuest/total.svg)
+![Forks](https://img.shields.io/github/forks/Rompos/SuperHeroesQuest.svg)
+![Stars](https://img.shields.io/github/stars/Rompos/SuperHeroesQuest.svg)
+![Watchers](https://img.shields.io/github/watchers/Rompos/SuperHeroesQuest.svg)
+
