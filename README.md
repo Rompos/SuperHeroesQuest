@@ -23,7 +23,7 @@ The game has been modified to a certain degree.
 
 [![screenshot](https://user-images.githubusercontent.com/64089173/103840347-0b515f80-509a-11eb-9de1-1bd28bd31653.png "Ingame screenshot")](https://github.com/Rompos/SuperHeroesQuest/blob/master/screenshot.png?raw=true)
 
-## Youtube video gameplay tralier of the actual game!
+## Click on the image below to watch the youtube video gameplay tralier of the actual game!
 
 [![Youtube](https://img.youtube.com/vi/ybBErvlQymw/maxresdefault.jpg "Press to Play Video!")](https://www.youtube.com/embed/ybBErvlQymw)
 
