@@ -12,9 +12,10 @@ The game has been modified to a certain degree.
 7. Tracking Projectile System.
 8. Extra Lives to collect.
 
-**Windows** | **Andoind** | **WebGL**
-:--------:  |  :--------: | :--------:
-   ~58Mb    |    ~66Mb    |  [Play](https://super-heroes-quest.netlify.app/superheroesquestwebgl/)
+   
+**Windows** | **Linux**  | **Mac OS** | **WebGL**
+:--------:  |:--------:  |:--------:  | :--------:
+ 22.4Mb     | 22.5Mb     | 21.8Mb     |  [Play](https://super-heroes-quest.netlify.app/superheroesquestwebgl/)
 
 ![License](https://img.shields.io/github/license/Rompos/SuperHeroesQuest.svg)
 ![Forks](https://img.shields.io/github/forks/Rompos/SuperHeroesQuest.svg)
